@@ -6,5 +6,5 @@ Welcome to the Business Model repository, where you can find various projects re
 
 Explore our Krishi Mitra project, a revolutionary initiative designed to empower farmers by providing them with efficient agricultural irrigation solutions. This smart irrigation system combines innovative hardware and software to significantly improve water usage and reduce the burden on farmers.
 
-Learn more about Krishi Mitra: [Krishi Mitra Repository](https://github.com/ashay-thamankar/Business-Model/tree/main/Krishi%20Mitra%20-%20Empowering%20Farmers).
+Learn more about Krishi Mitra: [Krishi Mitra Repository](https://github.com/ashay-thamankar/Business-Model/tree/main/Krishi%20Mitra%20-%20Empowering%20Farmers#krishi-mitra---empowering-farmers).
 
