@@ -2,7 +2,7 @@
 
 ![Krishi Mitra Introduction](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/General%20images/Intro%20image.jpg)
 
-Krishi Mitra is a revolutionary project aimed at empowering farmers by providing them with efficient agricultural irrigation solutions. Our project combines innovative hardware and software to create a smart irrigation system that significantly improves water usage and reduces the burden on farmers.
+Krishi Mitra is a groundbreaking project designed to empower farmers by providing them with efficient agricultural irrigation solutions. Our project combines innovative hardware and software to create a smart irrigation system that significantly improves water usage and reduces the burden on farmers.
 
 ## Problem Statement
 
@@ -40,10 +40,35 @@ Krishi Mitra is particularly relevant to the agricultural industry, where it ser
 
 The global smart irrigation market is on the rise, driven by the growing importance of efficient irrigation solutions. Krishi Mitra is a cost-effective solution that offers environmental sustainability, reduced labor costs, and efficient water resource management.
 
+## Krishi Mitra App Images
+
+### App Icon, Initial Interface, Language Selection
+![App Icon](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/App%20icon.jpg)
+![Initial Interface](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Initial%20interface.jpg)
+![Language Selection](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Language%20selection.jpg)
+
+### Notification Control Panel, Operation Performed Information
+![Notification Control Panel](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Notifications.jpg)
+![Operation Performed Information](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Operation%20performed.jpg)
+
+### Side Bar, Timer for More Controlling, Adding Mobile Number for Interface and Control
+![Side Bar](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Sidebar.jpg)
+![Timer](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Timer.jpg)
+![Add Mobile Number](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Add%20Mobile%20number%20for%20controlling.jpg)
+
+### Control Through WiFi, Control Through Call
+![Control Through WiFi](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Control%20through%20wifi.jpg)
+![Control Through Call](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Control%20through%20call.jpg)
+
+## College Recognition
+
+Krishi Mitra has been recognized and appreciated by SDMIT Ujire for its innovative contribution to agricultural technology.
+
+![Recognition by SDMIT Ujire](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/General%20images/Recognition_by_SDMIT%20Ujire.jpg)
+
 ## Links
 
 - [Krishi Mitra Android Application Images](https://github.com/ashay-thamankar/Business-Model/tree/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images)
 - [Presentation PPT](https://github.com/ashay-thamankar/Business-Model/tree/main/Krishi%20Mitra%20-%20Empowering%20Farmers/presentation)
 - [Mobile Application Programming Code](https://github.com/ashay-thamankar/Business-Model/tree/main/Krishi%20Mitra%20-%20Empowering%20Farmers/dart%20code%20for%20mobile%20application)
 - [General Images](https://github.com/ashay-thamankar/Business-Model/tree/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/General%20images)
-
