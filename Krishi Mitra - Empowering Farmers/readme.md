@@ -43,28 +43,28 @@ The global smart irrigation market is on the rise, driven by the growing importa
 ## Krishi Mitra App Images
 
 ### App Icon, Initial Interface, Language Selection
-![App Icon](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/App%20icon.jpg)
-![Initial Interface](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Initial%20interface.jpg)
-![Language Selection](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Language%20selection.jpg)
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/App%20icon.jpg" width="200">
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Initial%20interface.jpg" width="200">
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Language%20selection.jpg" width="200">
 
 ### Notification Control Panel, Operation Performed Information
-![Notification Control Panel](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Notifications.jpg)
-![Operation Performed Information](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Operation%20performed.jpg)
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Notifications.jpg" width="200">
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Operation%20performed.jpg" width="200">
 
 ### Side Bar, Timer for More Controlling, Adding Mobile Number for Interface and Control
-![Side Bar](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Sidebar.jpg)
-![Timer](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Timer.jpg)
-![Add Mobile Number](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Add%20Mobile%20number%20for%20controlling.jpg)
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Sidebar.jpg" width="200">
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Timer.jpg" width="200">
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Add%20Mobile%20number%20for%20controlling.jpg" width="200">
 
 ### Control Through WiFi, Control Through Call
-![Control Through WiFi](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Control%20through%20wifi.jpg)
-![Control Through Call](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Control%20through%20call.jpg)
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Control%20through%20wifi.jpg" width="200">
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/Krishimitra%20app%20images/Control%20through%20call.jpg" width="200">
 
 ## College Recognition
 
 Krishi Mitra has been recognized and appreciated by SDMIT Ujire for its innovative contribution to agricultural technology.
 
-![Recognition by SDMIT Ujire](https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/General%20images/Recognition_by_SDMIT%20Ujire.jpg)
+<img src="https://github.com/ashay-thamankar/Business-Model/blob/main/Krishi%20Mitra%20-%20Empowering%20Farmers/images/General%20images/Recognition_by_SDMIT%20Ujire.jpg" width="400">
 
 ## Links
 
